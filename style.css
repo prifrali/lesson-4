@@ -1,0 +1,142 @@
+.header {
+    background-image: url(fon1.webp);
+    border: 4px solid saddlebrown;
+    border-radius: 10px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+a:link {
+    color: whitesmoke;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:active {
+    color: red;
+}
+
+.logo {
+    margin: 0px 0px 10px 950px;
+}
+
+.site-title {
+    margin: -120px 0px 100px 100px;
+    color: whitesmoke;
+}
+
+.navigation {
+    margin: -150px 0px 0px 550px;
+    font-size: 20px;
+
+}
+
+.about_us {
+    background-color: rgb(171, 131, 202);
+    border: 4px solid rgb(72, 23, 114);
+    border-radius: 8px;
+    height: 670px;
+    margin-bottom: 10px;
+}
+
+.about-title {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    margin: 0px 0px 0px 200px;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+.card {
+    border: 2px solib black;
+    margin: 0px 0px 0px 25px;
+    text-align:justify;
+}
+
+.menu_us {
+    background-color: rgb(127, 98, 211);
+    border: 4px solid rgb(62, 30, 175);
+    border-radius: 8px;
+    height: 1050px;
+    margin-bottom: 10px;
+}
+
+.menu-title {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    font-size: 20px;
+    font-style: oblique;
+    color: whitesmoke;
+}
+
+ul {
+    margin: 0px 0px 0px 30px;
+    font-size: 17px;
+}
+
+.card1 {
+    border: 2px solib black;
+    margin: 0px 0px 0px 25px;
+    text-align: justify;
+}
+
+button {
+    width: 80px;
+    height: 30px;
+    margin: 0px 0px 15px 100px;
+    transition: 1s;
+}
+
+button:hover {
+    transition: 1s;
+    background-color: rgb(168, 236, 182);
+    cursor: pointer;
+}
+button:active {
+    background-color: rgb(68, 216, 63);
+}
+
+.delivery-and-paymant {
+    background-color: rgb(227, 121, 202);
+    border: 4px solid rgb(208, 25, 196);
+    border-radius: 8px;
+    height: 360px;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 160px;
+    height: 30px;
+    margin: 0px 0px 15px 100px;
+}
+
+input:focus {
+    border-color: rgb(43, 193, 43);
+    box-shadow: 5px 5px 10px green;
+}
+
+.del-title {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    font-size: 20px;
+    font-style: oblique;
+}
+
+ul {
+    margin: 0px 0px 0px 70px;
+}
+.footer {
+    
+    background-color: rgb(110, 214, 148);
+    border: 4px solid rgb(60, 108, 64);
+    border-radius: 10px;
+    height: 100px;
+}
